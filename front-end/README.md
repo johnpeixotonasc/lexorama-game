@@ -1,4 +1,4 @@
-Curso de Engenharia de Software - UniEVANGÉLICA 
+Curso de Engenharia de Software - UniEVANGÉLICA <br/>
 Disciplina de Programação Web
 Projeto: Lexorama
 Devs: Everton Vitor R.B Fernandes, João Pedro Barbaresco, Leonan Dias, Yago Romualdo, Gabriel Cintra, Davi Gustavo.
